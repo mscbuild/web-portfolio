@@ -108,14 +108,8 @@ Check out the live version: **[greate-portfolio.demo](https://greate-portfolio.d
 
 <div align="center">
 
-| Hero Section | Terminal Profile |
-|:---:|:---:|
-| ![Hero]<img width="1343" height="600" alt="350" src="https://github.com/user-attachments/assets/2fa5718d-30f3-4578-b3e7-3ac93353d4e3" />
-| ![Terminal](https://via.placeholder.com/600x350/05070a/00ff41?text=Terminal+Profile) |
-
-| Skills Grid | Projects Showcase |
-|:---:|:---:|
-| ![Skills](https://via.placeholder.com/600x350/05070a/00ffff?text=Skills+Grid) | ![Projects](https://via.placeholder.com/600x350/05070a/b026ff?text=Projects) |
+<img width="1343" height="600" alt="350" src="https://github.com/user-attachments/assets/2fa5718d-30f3-4578-b3e7-3ac93353d4e3" />
+ 
 
 </div>
 
@@ -157,7 +151,7 @@ git clone https://github.com/yourusername/greate-portfolio.git
 cd greate-portfolio
 ```
 
-🌐 Browser Support
+## 🌐 Browser Support
 
 | Browser | Support | Notes |
 |---------|---------|-------|
@@ -170,7 +164,7 @@ cd greate-portfolio
 
 ⚠️ WebGL Required: The 3D background requires WebGL support. Falls back gracefully on unsupported browsers.
 
-📊 Performance
+## 📊 Performance
 
 | Metric | Score |
 |--------|-------|
@@ -178,7 +172,7 @@ cd greate-portfolio
 | First Contentful Paint | 
   
 
-🗺️ Roadmap
+## 🗺️ Roadmap
 
 v2.1.0 (Planned)
 [ ] Dark/Light theme toggle
@@ -203,25 +197,12 @@ v3.0.0 (Future)
 
 Have a feature request? Open an issue!
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are what make the open-source community amazing! Any contributions you make are greatly appreciated.
 
-How to Contribute
-
-Fork the Project
-Create your Feature Branch
-   bash
-   git checkout -b feature/AmazingFeature
-   3. Commit your Changes
-   bash
-   git commit -m 'feat: Add some AmazingFeature'
-   4. Push to the Branch
-   bash
-   git push origin feature/AmazingFeature
-   5. Open a Pull Request
-
-Contribution Guidelines
+ 
+## Contribution Guidelines
 
 ✅ Follow existing code style
 ✅ Write clear commit messages (Conventional Commits)
@@ -230,75 +211,23 @@ Contribution Guidelines
 ✅ Ensure mobile responsiveness
 ✅ Add comments for complex logic
 
-Code of Conduct
+## Code of Conduct
 
 Please read our Code of Conduct before contributing.
 
-📜 License
+## 📜 License
 
 Distributed under the MIT License. See LICENSE for more information.
 
-MIT License
+ 
+## Inspired By
 
-Copyright (c) 2026 GREATE
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
-
-🙏 Acknowledgments
-
-Three.js — For the amazing 3D library
-Fontsource — For self-hosted fonts
-The Hacker Community — For inspiration
-Cybersecurity Professionals — For setting the standard
-Open Source Contributors — For making this possible
-
-Inspired By
 🎬 The Matrix (1999)
 🖥️ Mr. Robot
 🎮 Hacknet
 🔐 DEF CON Aesthetics
 
-📬 Contact
-
-Project Link: https://github.com/yourusername/greate-portfolio
-
-Author: GREATE Security Team  
-Email: contact@greate-sec.io  
-PGP Key: 0xA1B2 C3D4 E5F6 7890  
-Twitter: @greate_sec  
-LinkedIn: in/greate-security
-
-🔐 Stay paranoid. Stay secure.
-
-📈 Project Stats
-
-GitHub stars
-GitHub forks
-GitHub watchers
-GitHub followers
-
-GitHub issues
-GitHub pull requests
-GitHub last commit
-GitHub repo size
-
-⭐ If this project helped you, consider giving it a star! ⭐
-
-⬆ Back to Top
-
-Built with 💚 and paranoia by the GREATE team
-
-██████╗ ██████╗ ███████╗████████╗███████╗███████╗████████╗
-██╔════╝ ██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝
-██║  ███╗██████╔╝█████╗     ██║   █████╗  ███████╗   ██║   
-██║   ██║██╔══██╗██╔══╝     ██║   ██╔══╝  ╚════██║   ██║   
-╚██████╔╝██║  ██║███████╗   ██║   ███████╗███████║   ██║   
- ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚══════╝   ╚═╝
-
+ 
 ⭐ If this project helped you, consider giving it a star! ⭐
 
 ⬆ Back to Top
