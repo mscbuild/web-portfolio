@@ -175,25 +175,25 @@ cd web-portfolio
 ## 🗺️ Roadmap
 
 v2.1.0 (Planned)
-[ ] Dark/Light theme toggle
-[ ] Blog section integration
-[ ] Multi-language support (i18n)
-[ ] Achievement badges system
-[ ] Interactive CVE database viewer
+- [ ] Dark/Light theme toggle
+- [ ] Blog section integration
+- [ ] Multi-language support (i18n)
+- [ ] Achievement badges system
+- [ ] Interactive CVE database viewer
 
 v2.2.0 (Planned)
-[ ] WebAssembly particle system
-[ ] Advanced terminal emulator
-[ ] Real-time threat map
-[ ] Certificate viewer
-[ ] Resume/CV download
+- [ ] WebAssembly particle system
+- [ ] Advanced terminal emulator
+- [ ] Real-time threat map
+- [ ] Certificate viewer
+- [ ] Resume/CV download
 
 v3.0.0 (Future)
-[ ] React/Next.js migration
-[ ] Headless CMS integration
-[ ] Admin dashboard
-[ ] Analytics dashboard
-[ ] AI-powered chatbot
+- [ ] React/Next.js migration
+- [ ] Headless CMS integration
+- [ ] Admin dashboard
+- [ ] Analytics dashboard
+- [ ] AI-powered chatbot
 
 Have a feature request? Open an issue!
 
@@ -205,10 +205,15 @@ Contributions are what make the open-source community amazing! Any contributions
 ## Contribution Guidelines
 
 ✅ Follow existing code style
+
 ✅ Write clear commit messages (Conventional Commits)
+
 ✅ Update documentation as needed
+
 ✅ Test across multiple browsers
+
 ✅ Ensure mobile responsiveness
+
 ✅ Add comments for complex logic
 
 ## Code of Conduct
@@ -223,8 +228,11 @@ Distributed under the MIT License. See LICENSE for more information.
 ## Inspired By
 
 🎬 The Matrix (1999)
+
 🖥️ Mr. Robot
+
 🎮 Hacknet
+
 🔐 DEF CON Aesthetics
 
  
