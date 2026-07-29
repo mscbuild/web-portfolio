@@ -60,7 +60,7 @@ Built with a **terminal-inspired aesthetic**, the portfolio features:
 
 ## 🚀 Live Demo
 
-Check out the live version: **[greate-portfolio.demo](https://greate-portfolio.demo)**
+Check out the live version: **[greate-portfolio.demo](https://github.com/mscbuild/web-portfolio/)**
 
 > ⚠️ **Note:** The demo uses placeholder content. Fork the repo and customize it with your own information.
 
@@ -145,10 +145,10 @@ Check out the live version: **[greate-portfolio.demo](https://greate-portfolio.d
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/greate-portfolio.git
+git clone https://github.com/mscbuild/web-portfolio.git
 
 # Navigate to the project
-cd greate-portfolio
+cd web-portfolio
 ```
 
 ## 🌐 Browser Support
