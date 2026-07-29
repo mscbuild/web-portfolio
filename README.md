@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ GREATE // Elite Cybersecurity Portfolio
+# 🛡️ CYBER // Elite Cybersecurity Portfolio
 
 ### [ Defending the Digital Frontier ]
 
@@ -43,7 +43,7 @@
 
 ## 🎯 About
 
-**GREATE** is a high-end, interactive cybersecurity portfolio designed for security researchers, penetration testers, red teamers, and ethical hackers who want to showcase their work with style and sophistication.
+**CYBER** is a high-end, interactive cybersecurity portfolio designed for security researchers, penetration testers, red teamers, and ethical hackers who want to showcase their work with style and sophistication.
 
 Built with a **terminal-inspired aesthetic**, the portfolio features:
 
