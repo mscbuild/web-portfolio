@@ -110,7 +110,8 @@ Check out the live version: **[greate-portfolio.demo](https://greate-portfolio.d
 
 | Hero Section | Terminal Profile |
 |:---:|:---:|
-| ![Hero](https://via.placeholder.com/600x350/05070a/00ff41?text=Hero+Section) | ![Terminal](https://via.placeholder.com/600x350/05070a/00ff41?text=Terminal+Profile) |
+| ![Hero](<img width="1343" height="600" alt="350" src="https://github.com/user-attachments/assets/2fa5718d-30f3-4578-b3e7-3ac93353d4e3" />) 
+ | ![Terminal](https://via.placeholder.com/600x350/05070a/00ff41?text=Terminal+Profile) |
 
 | Skills Grid | Projects Showcase |
 |:---:|:---:|
