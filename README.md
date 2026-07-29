@@ -1,258 +1,160 @@
-🛡️ CYBER // Elite Cybersecurity Portfolio
+<div align="center">
 
-[ Defending the Digital Frontier ]
+# 🛡️ GREATE // Elite Cybersecurity Portfolio
 
-An interactive 3D cybersecurity portfolio website with terminal aesthetics, glitch effects, and immersive animations.
+### [ Defending the Digital Frontier ]
 
-Version
-License
-Build
-Security
-PRs Welcome
-Made with
+**An interactive 3D cybersecurity portfolio website with terminal aesthetics, glitch effects, and immersive animations.**
 
-🚀 Live Demo • 📦 Installation • 🎨 Features • 🛠️ Tech Stack • 📖 Documentation • 🤝 Contributing
+[![Version](https://img.shields.io/badge/version-2.0.0-00ff41?style=flat-square&logo=github)](https://github.com/)
+[![License](https://img.shields.io/badge/license-MIT-00ffff?style=flat-square)](LICENSE)
+[![Build](https://img.shields.io/badge/build-passing-00ff41?style=flat-square)](https://github.com/)
+[![Security](https://img.shields.io/badge/security-audited-b026ff?style=flat-square)](https://github.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-00ff41?style=flat-square)](http://makeapullrequest.com)
+[![Made with](https://img.shields.io/badge/made%20with-HTML%2FCSS%2FJS-ff0040?style=flat-square)](https://developer.mozilla.org/)
 
-📋 Table of Contents
+[🚀 Live Demo](#-live-demo) • [📦 Installation](#-installation) • [🎨 Features](#-features) • [🛠️ Tech Stack](#-tech-stack) • [📖 Documentation](#-documentation) • [🤝 Contributing](#-contributing)
 
-About
-Live Demo
-Features
-Screenshots
-Tech Stack
-Installation
-Usage
-Project Structure
-Configuration
-Browser Support
-Performance
-Security
-Roadmap
-Contributing
-License
-Acknowledgments
-Contact
+</div>
 
-🎯 About
+---
 
-GREATE is a high-end, interactive cybersecurity portfolio designed for security researchers, penetration testers, red teamers, and ethical hackers who want to showcase their work with style and sophistication.
+## 📋 Table of Contents
 
-Built with a terminal-inspired aesthetic, the portfolio features:
+- [About](#-about)
+- [Live Demo](#-live-demo)
+- [Features](#-features)
+- [Screenshots](#-screenshots)
+- [Tech Stack](#-tech-stack)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Project Structure](#-project-structure)
+- [Configuration](#-configuration)
+- [Browser Support](#-browser-support)
+- [Performance](#-performance)
+- [Security](#-security)
+- [Roadmap](#-roadmap)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Acknowledgments](#-acknowledgments)
+- [Contact](#-contact)
 
-🌐 3D interactive backgrounds powered by Three.js
-💚 Matrix-style rain effects for that authentic hacker vibe
-⚡ Glitch text animations with RGB split effects
-🖥️ Simulated terminal interfaces with live command execution
-🎨 Custom cursor with hover states
-📱 Fully responsive design for all devices
+---
 
-"Breaking systems. Building trust."
+## 🎯 About
 
-🚀 Live Demo
+**GREATE** is a high-end, interactive cybersecurity portfolio designed for security researchers, penetration testers, red teamers, and ethical hackers who want to showcase their work with style and sophistication.
 
-Check out the live version: greate-portfolio.demo
+Built with a **terminal-inspired aesthetic**, the portfolio features:
 
-⚠️ Note: The demo uses placeholder content. Fork the repo and customize it with your own information.
+- 🌐 **3D interactive backgrounds** powered by Three.js
+- 💚 **Matrix-style rain effects** for that authentic hacker vibe
+- ⚡ **Glitch text animations** with RGB split effects
+- 🖥️ **Simulated terminal interfaces** with live command execution
+- 🎨 **Custom cursor** with hover states
+- 📱 **Fully responsive** design for all devices
 
-🎨 Features
+> *"Breaking systems. Building trust."*
 
-✨ Visual Effects
-3D Particle Network — Animated node graph with mouse parallax
-Wireframe Icosahedron — Rotating geometric shapes
-Matrix Rain — Classic falling characters background
-Scanline Overlay — CRT monitor simulation
-Glitch Typography — RGB-split text animations
-Hexagonal Grid — Interactive hover effects
+---
 
-🧩 Interactive Components
-Terminal Emulator — Simulated command-line interface
-Animated Skill Bars — Scroll-triggered progress indicators
-Counting Statistics — Numbers animate on viewport entry
-Hover Transitions — Smooth micro-interactions
-Custom Cursor — Green ring cursor with blend mode
-Reveal Animations — Intersection Observer-based fade-ins
+## 🚀 Live Demo
 
-📄 Content Sections
+Check out the live version: **[greate-portfolio.demo](https://greate-portfolio.demo)**
+
+> ⚠️ **Note:** The demo uses placeholder content. Fork the repo and customize it with your own information.
+
+---
+
+## 🎨 Features
+
+### ✨ Visual Effects
+- **3D Particle Network** — Animated node graph with mouse parallax
+- **Wireframe Icosahedron** — Rotating geometric shapes
+- **Matrix Rain** — Classic falling characters background
+- **Scanline Overlay** — CRT monitor simulation
+- **Glitch Typography** — RGB-split text animations
+- **Hexagonal Grid** — Interactive hover effects
+
+### 🧩 Interactive Components
+- **Terminal Emulator** — Simulated command-line interface
+- **Animated Skill Bars** — Scroll-triggered progress indicators
+- **Counting Statistics** — Numbers animate on viewport entry
+- **Hover Transitions** — Smooth micro-interactions
+- **Custom Cursor** — Green ring cursor with blend mode
+- **Reveal Animations** — Intersection Observer-based fade-ins
+
+### 📄 Content Sections
 | Section | Description |
 |---------|-------------|
-| 🏠 Hero | Glitch title with CTA buttons |
-| 👤 About | Terminal-style profile + stats |
-| 💪 Skills | Animated progress bars |
-| 🛡️ Services | 6 service cards with icons |
-| 📁 Projects | 6 case study cards with code snippets |
-| 📧 Contact | Encrypted form with PGP info |
+| 🏠 **Hero** | Glitch title with CTA buttons |
+| 👤 **About** | Terminal-style profile + stats |
+| 💪 **Skills** | Animated progress bars |
+| 🛡️ **Services** | 6 service cards with icons |
+| 📁 **Projects** | 6 case study cards with code snippets |
+| 📧 **Contact** | Encrypted form with PGP info |
 
-🎛️ Technical Features
-✅ Zero dependencies (except CDN libs)
-✅ Single-file deployment
-✅ SEO-friendly semantic HTML
-✅ Accessible (ARIA-ready)
-✅ Performance-optimized animations
-✅ Mobile-responsive breakpoints
+### 🎛️ Technical Features
+- ✅ Zero dependencies (except CDN libs)
+- ✅ Single-file deployment
+- ✅ SEO-friendly semantic HTML
+- ✅ Accessible (ARIA-ready)
+- ✅ Performance-optimized animations
+- ✅ Mobile-responsive breakpoints
 
-📸 Screenshots
+---
+
+## 📸 Screenshots
+
+<div align="center">
 
 | Hero Section | Terminal Profile |
 |:---:|:---:|
-| Hero | Terminal |
+| ![Hero](https://via.placeholder.com/600x350/05070a/00ff41?text=Hero+Section) | ![Terminal](https://via.placeholder.com/600x350/05070a/00ff41?text=Terminal+Profile) |
 
 | Skills Grid | Projects Showcase |
 |:---:|:---:|
-| Skills | Projects |
+| ![Skills](https://via.placeholder.com/600x350/05070a/00ffff?text=Skills+Grid) | ![Projects](https://via.placeholder.com/600x350/05070a/b026ff?text=Projects) |
 
-🛠️ Tech Stack
+</div>
 
-Core
-HTML5 — Semantic markup
-CSS3 — Custom properties, Grid, Flexbox, Animations
-Vanilla JavaScript — ES6+ modules
+---
 
-Libraries (via CDN)
+## 🛠️ Tech Stack
+
+### Core
+- **HTML5** — Semantic markup
+- **CSS3** — Custom properties, Grid, Flexbox, Animations
+- **Vanilla JavaScript** — ES6+ modules
+
+### Libraries (via CDN)
 | Library | Version | Purpose |
 |---------|---------|---------|
-| Three.js | r128 | 3D rendering |
-| Orbitron | Latest | Headings font |
-| Share Tech Mono | Latest | Terminal font |
-| Rajdhani | Latest | Body font |
+| [Three.js](https://threejs.org/) | r128 | 3D rendering |
+| [Orbitron](https://fonts.google.com/specimen/Orbitron) | Latest | Headings font |
+| [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono) | Latest | Terminal font |
+| [Rajdhani](https://fonts.google.com/specimen/Rajdhani) | Latest | Body font |
 
-Tools Used
-🎨 Custom CSS animations
-📐 Intersection Observer API
-🖱️ Mouse tracking events
-📊 Canvas 2D API (matrix rain)
-🌐 WebGL (Three.js)
+### Tools Used
+- 🎨 Custom CSS animations
+- 📐 Intersection Observer API
+- 🖱️ Mouse tracking events
+- 📊 Canvas 2D API (matrix rain)
+- 🌐 WebGL (Three.js)
 
-📦 Installation
+---
 
-Option 1: Quick Start (No Build)
-bash
-Clone the repository
+## 📦 Installation
+
+### Option 1: Quick Start (No Build)
+
+```bash
+# Clone the repository
 git clone https://github.com/yourusername/greate-portfolio.git
 
-Navigate to the project
+# Navigate to the project
 cd greate-portfolio
-
-Open in your browser
-open index.html
-
-That's it! No build step required. 🎉
-
-Option 2: With Local Server
-bash
-Using Python
-python -m http.server 8000
-
-Using Node.js (npx)
-npx serve
-
-Using PHP
-php -S localhost:8000
-
-Then visit: http://localhost:8000
-
-Option 3: Deploy to GitHub Pages
-bash
-Initialize git repo
-git init
-git add .
-git commit -m "Initial commit: GREATE portfolio"
-git branch -M main
-git remote add origin https://github.com/yourusername/greate-portfolio.git
-git push -u origin main
-
-Enable GitHub Pages in repo settings
-Settings → Pages → Source: main branch → / (root)
-
-📖 Usage
-
-Customizing Content
-
-Update Personal Information
-
-Open index.html and search for these sections:
-html
-
-GREATE
-&gt; Defending the Digital Frontier_
-
-  
-
-contact@greate-sec.io
-
-Modify Skills
-html
-
-  
-    Your Skill Name
-    95%
-  
-  
-    
-  
-
-Add Projects
-
-Duplicate a .project block and update:
-Title ()
-Description ()
-Tech tags (.tech-tag)
-Code preview (.project-code)
-Links (.project-links)
-
-Change Color Theme
-
-Edit CSS variables at the top:
-css
-:root{
-  --green:#00ff41;    / Primary accent /
-  --cyan:#00ffff;     / Secondary accent /
-  --red:#ff0040;      / Glitch effect /
-  --purple:#b026ff;   / Tertiary accent /
-  --bg:#05070a;       / Background /
-}
-
-📂 Project Structure
-
-greate-portfolio/
-├── index.html              # Main portfolio file (all-in-one)
-├── README.md               # This file
-├── LICENSE                 # MIT License
-├── .gitignore              # Git ignore rules
-├── assets/                 # (Optional) Static assets
-│   ├── images/
-│   └── fonts/
-└── docs/                   # (Optional) Documentation
-    └── screenshots/
-
-💡 Note: This is a single-file application. All CSS and JavaScript are embedded in index.html for easy deployment.
-
-⚙️ Configuration
-
-Performance Tuning
-
-Adjust these values in the JavaScript section:
-javascript
-// Matrix rain density
-const fontSize = 14;           // Smaller = more characters
-
-// 3D particle count
-const particleCount = 150;     // Reduce for better mobile performance
-
-// Animation frame rate
-setInterval(drawMatrix, 50);   // Lower = faster (more CPU)
-
-Disable Effects
-javascript
-// Disable 3D background
-renderer.setSize(0, 0);
-
-// Disable matrix rain
-clearInterval(matrixInterval);
-document.getElementById('matrix').style.display = 'none';
-
-// Disable custom cursor
-document.getElementById('cursor').style.display = 'none';
-document.getElementById('cursor-dot').style.display = 'none';
+```
 
 🌐 Browser Support
 
@@ -382,6 +284,19 @@ GitHub issues
 GitHub pull requests
 GitHub last commit
 GitHub repo size
+
+⭐ If this project helped you, consider giving it a star! ⭐
+
+⬆ Back to Top
+
+Built with 💚 and paranoia by the GREATE team
+
+██████╗ ██████╗ ███████╗████████╗███████╗███████╗████████╗
+██╔════╝ ██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝
+██║  ███╗██████╔╝█████╗     ██║   █████╗  ███████╗   ██║   
+██║   ██║██╔══██╗██╔══╝     ██║   ██╔══╝  ╚════██║   ██║   
+╚██████╔╝██║  ██║███████╗   ██║   ███████╗███████║   ██║   
+ ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚══════╝   ╚═╝
 
 ⭐ If this project helped you, consider giving it a star! ⭐
 
