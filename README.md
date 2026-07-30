@@ -58,7 +58,7 @@ Built with a **terminal-inspired aesthetic**, the portfolio features:
 
 ## 🚀 Live Demo
 
-Check out the live version: **[greate-portfolio.demo](https://github.com/mscbuild/web-portfolio/)**
+Check out the live version: **[cyber-portfolio.demo](https://mscbuild.github.io/about/cyber.html)**
 
 > ⚠️ **Note:** The demo uses placeholder content. Fork the repo and customize it with your own information.
 
